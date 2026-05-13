@@ -45,6 +45,17 @@
     ├── tests/ 
     ├── docs/ 
     └── README.md 
+## Contribuciones
+    Las contribuciones son bienvenidas. Por favor:
+    1. Haz fork del proyecto
+    2. Crea una rama para tu feature (git checkout -b feature/NuevaCaracteristica)
+    3. Haz commit de tus cambios (git commit -m 'feat: agregar nueva característica')
+    4. Push a la rama (git push origin feature/NuevaCaracteristica)
+    5. Abre un Pull Request
+
+## Licencia
+
+    Este proyecto esta bajo licencia MIT
 
 ## Autor
-Keyner Gallego
+    Keyner Gallego
