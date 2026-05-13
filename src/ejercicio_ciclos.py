@@ -26,6 +26,7 @@ while contador < 5:
 
 print("\n=== EJERCICION 4: NUMEROS PARES ===")
 #mostrar solo numeros pares
+#ejercio
 print("Numeros pares del 1 al 20:")
 for num in range(1, 21):
     if num % 2 == 0:
